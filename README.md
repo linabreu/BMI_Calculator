@@ -9,4 +9,4 @@ Body_Mass_Index_with_if : Extension of basic BMI program. Includes and if/elif/e
 
 Body_Mass_Index_with_if_and_while: Further extension of BMI program. Includes a while loop that allows user to process repeated entries
 
-
+Body_Mass_Index_Validation_Functions: Breaks down program into a main function, a get weight function and a get height function. get_weight() and get_height() functions utilize while loops and if statements for validation to ensure that only valid values are returned to main function to be used in calculations
